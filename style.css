@@ -14,7 +14,6 @@ body {
 }
 
 .container {
-  width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -63,12 +62,17 @@ section {
 section a {
   color: rgb(53, 101, 207);
 }
+section h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+section h3 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
 
 .info {
   background-color: rgb(255, 252, 240);
-}
-.info ul li {
-  line-height: 2;
 }
 
 footer {
