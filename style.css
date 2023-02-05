@@ -1,0 +1,81 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bgc-w {
+  background-color: rgb(255, 255, 255);
+}
+
+header {
+  padding-top: 20px;
+  margin-bottom: 5px;
+  padding-bottom: 20px;
+}
+header h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+header nav ul {
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+}
+header nav ul li {
+  width: 50%;
+  text-align: center;
+}
+header nav ul li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(8, 0, 126);
+}
+header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.c-r-fwb {
+  color: rgb(162, 0, 0);
+  font-weight: bold;
+}
+
+section {
+  padding: 20px 30px;
+  box-sizing: border-box;
+  margin-bottom: 2px;
+}
+section a {
+  color: rgb(53, 101, 207);
+}
+
+.info {
+  background-color: rgb(255, 252, 240);
+}
+.info ul li {
+  line-height: 2;
+}
+
+footer {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+footer h5 {
+  font-size: 18px;
+}/*# sourceMappingURL=style.css.map */
