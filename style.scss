@@ -70,9 +70,27 @@ section {
     margin-top: 20px;
     margin-bottom: 5px;
    }
+   h4{
+    margin-top: 20px;
+    margin-bottom: 5px;
+   
+   }
+   h6{
+    font-size: 14px;
+    color: rgb(241, 65, 124);
+   }
 }
 
-
+.game{
+    margin-top: 20px;
+    color: rgb(0, 8, 91);
+    border: 1px solid #006199;
+    padding: 10px;
+    h4{
+        font-size: 18px;
+        color: rgb(41, 0, 103);
+    }
+}
 
 .info{
     background-color: rgb(255, 252, 240);
